@@ -1,0 +1,20 @@
+h1 {
+	text-align:center ;
+}
+body {
+	width:80% ;
+	margin-left:auto ;
+	margin-right:auto ;
+}
+p{ 
+	font-size:18px ;
+	background-color:#DCDCDC ;
+	line-height:200%;
+}
+hr{
+	background-color:#008000;
+	height:5px ;
+}
+li {
+	font-size:20px ;
+}
